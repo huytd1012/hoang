@@ -1,0 +1,145 @@
+<head>
+    <title>
+        canbolop
+    </title>
+</head>
+<body>
+    <table  border = 1px style = "width:100%;height:10%;">
+        <tr>
+            <td rowspan="2" bgcolor="#fa4025"> 
+                <a href="https://www.facebook.com/A2K52-103689981833509/" >
+                    <img src = "A2K52-KC.jpg" style = "width: 100%;height: 100%;">
+                </a>
+            </td>
+            <td colspan="5" bgcolor="3399ff" >
+                <a href= "http://truongthptchuyen.vinhuni.edu.vn/" style ="text-decoration: none;">
+                    <center>
+                        <H1>
+                            <font color = "white"> TRƯỜNG TRUNG HỌC PHỔ THÔNG CHUYÊN ĐẠI HỌC VINH </font>
+                        </H1>
+                    </center>
+                </a>
+            </td>
+        </tr>
+        <tr bgcolor = "3399ff">
+            
+            <td> <a style="text-decoration: none" href = "A2K52.html"> <font color = "white"><center><H3>Trang chủ</H3></center></font></a></td>
+            <td> <a style="text-decoration: none" href = "canbolop.html"> <font color = "white"><center><H3>Cán bộ lớp</H3></center></font></a></td>
+            <td> <a style="text-decoration: none" href = "gioithieuvelop.html"> <font color = "white"><center><H3>Giới thiệu về lớp</H3></center></font></a></td>
+            <td> <a style="text-decoration: none" href = "anhkiyeu.html"> <font color = "white"><center><H3>Ảnh kỷ yếu</H3></center></font></a></td>
+            <td> <a style="text-decoration: none" href = "videolop.html"> <font color = "white"><center><H3>Video lớp</H3></center></font></a></td>
+        </tr>
+    </table>
+</body>
+<body>
+    <table border = "1" style = "height: 50%;width: 25%;" rules = "rows">
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/thaytoan.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Nguyễn Đức Toàn</td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Giáo viên môn chuyên</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/thayhanh.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Hồ Đức Hạnh</td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Giáo viên chủ nhiệm</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/quythui.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Nguyễn Hoàng Quý </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Lớp trưởng</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/nhi.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Lê Nguyễn Yến Nhi </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Bí thư</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/hymyhen.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Lê Thị Thu Hiền</td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Lớp phó ?</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/manh.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> <a style="text-decoration: none" href = "trash.html"> <font color = "black">Tên : Lưu Đức Mạnh </font> </a></td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Lớp phó học tập</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/quang.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Võ Minh Quang</td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Lớp phó bị phế truất </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/trinhdat.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Nguyễn Trình Tuấn Đụt</td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Phó bí thư </td>
+        </tr>
+	<tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/dao.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Nguyễn Đôn Đào Nguyên </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Tổ trưởng tổ 1 </td>
+        </tr>
+	<tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/hieu.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Nguyễn Lê Hiếu </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Tổ trưởng tổ 2 </td>
+        </tr>
+	<tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/thuyhien.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Lê Thúy Hiền </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Tổ trưởng tổ 3 </td>
+        </tr>
+	<tr>
+            <td rowspan="2">
+                <img src = "anhcanbolop/tanh.jpg" style = "height: 100%;width: auto;">
+            </td>
+            <td> Tên : Đàm Tuấn Anh </td>
+        </tr> 
+        <tr> 
+            <td> Chức vụ : Tổ trưởng tổ 4 </td>
+        </tr>
+    </table>
+</body>
